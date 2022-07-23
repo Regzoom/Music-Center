@@ -1,0 +1,1 @@
+working: java -jar Lavalink.jar, python bot.py
