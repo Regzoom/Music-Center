@@ -1,1 +1,2 @@
-working: java -jar Lavalink.jar, python bot.py
+worker: python bot.py
+worker: java -jar Lavalink.jar
